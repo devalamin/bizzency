@@ -284,7 +284,6 @@ service-part css start
 #service-part .item {
     background: #dadaef;
     width: 30%;
-    height: ;
     margin: 80px 15px 50px;
     float: left;
     position: relative;
@@ -371,7 +370,7 @@ service-part css end
 portfolio-part css start
 =========================================*/
 
-#portfolio-part {}
+
 
 #portfolio-part p {
     text-align: center;
@@ -397,7 +396,7 @@ portfolio-part css start
     position: relative;
 }
 
-#portfolio-part .main {}
+
 
 #portfolio-part .overlay {
     position: absolute;
@@ -431,7 +430,6 @@ portfolio-part css start
 
 #portfolio-part .browse a {
     padding: 13px 32px;
-    background: ;
     color: #1d1d19;
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
