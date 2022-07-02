@@ -430,7 +430,8 @@ portfolio-part css start
 
 #portfolio-part .browse a {
     padding: 13px 32px;
-    color: #1d1d19;
+    color: red;
+    background-color: yellow;
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     transition: .5s;
